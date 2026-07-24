@@ -1,3 +1,3 @@
 # Am's Figura Avatar
 
-Simple, right?
+Simple, right? Previews coming soon!
