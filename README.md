@@ -1,3 +1,4 @@
 # Am's Figura Avatar
 
-Simple, right? Previews coming soon!
+Simple, right? GIF previews coming soon!
+
