@@ -4,7 +4,7 @@ Simple, right?
 
 
 
-\*\*Clothes:\*\*
+Clothes:
 
 
 
@@ -14,7 +14,7 @@ Simple, right?
 
 
 
-\*\*Emotes:\*\*
+Emotes:
 
 
 
@@ -24,7 +24,7 @@ Simple, right?
 
 
 
-\*\*Filaments:\*\*
+Filaments:
 
 
 
