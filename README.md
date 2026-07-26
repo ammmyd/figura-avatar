@@ -8,7 +8,7 @@ Simple, right?
 
 
 
-!\[Preview of Clothes](gifs/clothes.gif)
+<img src="gifs/clothes.gif" width="300" height="200" alt="Preview of Clothes" />
 
 
 
@@ -16,7 +16,7 @@ Simple, right?
 
 
 
-!\[Preview of Emotes](gifs/emotes.gif)
+<img src="gifs/emotes.gif" width="300" height="200" alt="Preview of Emotes" />
 
 
 
@@ -24,7 +24,5 @@ Simple, right?
 
 
 
-!\[Preview of Filaments](gifs/filaments.gif)
-
-
+<img src="gifs/filaments.gif" width="300" height="200" alt="Preview of Filaments" />
 
